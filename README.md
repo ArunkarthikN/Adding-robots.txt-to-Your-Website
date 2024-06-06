@@ -15,6 +15,8 @@ Remember to replace any existing **robots.txt**
 
 **Content:**
 
+```sh
+
 User-agent: *
 Disallow: /wp-admin/
 Disallow: /wp-content/
@@ -351,3 +353,5 @@ Disallow: /
 
 Sitemap: https://example.com/sitemap.xml
 Sitemap: https://example.com/images_sitemap.xml
+
+```
